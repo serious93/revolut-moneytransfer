@@ -1,0 +1,1379 @@
+2019-01-21 17:56:57 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-21 17:56:57 INFO  - HHH000206: hibernate.properties not found
+2019-01-21 17:56:57 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-21 17:56:58 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-21 17:56:58 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-21 17:58:37 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-21 17:58:37 INFO  - HHH000206: hibernate.properties not found
+2019-01-21 17:58:37 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-21 17:58:38 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-21 17:58:38 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-21 17:58:38 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:database/test]
+2019-01-21 17:58:38 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-21 17:58:38 INFO  - HHH10001003: Autocommit mode: false
+2019-01-21 17:58:38 INFO  - HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-01-21 17:59:55 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-21 17:59:55 INFO  - HHH000206: hibernate.properties not found
+2019-01-21 17:59:55 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-21 17:59:56 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-21 17:59:56 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-21 17:59:56 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-21 17:59:56 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-21 17:59:56 INFO  - HHH10001003: Autocommit mode: false
+2019-01-21 17:59:56 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-21 17:59:56 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-21 17:59:57 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-21 17:59:57 INFO  - HHH000230: Schema export complete
+2019-01-21 18:01:06 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-21 18:01:06 INFO  - HHH000206: hibernate.properties not found
+2019-01-21 18:01:06 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-21 18:01:07 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-21 18:01:07 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-21 18:01:07 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-21 18:01:07 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-21 18:01:07 INFO  - HHH10001003: Autocommit mode: false
+2019-01-21 18:01:07 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-21 18:01:07 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-21 18:01:08 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-21 18:01:08 INFO  - HHH000230: Schema export complete
+2019-01-22 09:36:14 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:36:14 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:36:14 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:36:19 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:36:22 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:36:22 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:36:22 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:36:22 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:36:22 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:36:26 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:36:34 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:36:34 INFO  - HHH000230: Schema export complete
+2019-01-22 09:41:13 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:41:13 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:41:13 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:41:14 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:41:14 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:41:14 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:41:14 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:41:14 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:41:14 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:41:14 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:41:15 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:41:15 INFO  - HHH000230: Schema export complete
+2019-01-22 09:42:19 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:42:19 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:42:19 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:42:20 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:42:20 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:42:20 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:42:20 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:42:20 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:42:20 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:42:20 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:42:21 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:42:21 INFO  - HHH000230: Schema export complete
+2019-01-22 09:43:46 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:43:46 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:43:46 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:43:46 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:43:47 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:43:47 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:43:47 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:43:47 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:43:47 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:43:47 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:43:48 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:43:48 INFO  - HHH000230: Schema export complete
+2019-01-22 09:45:04 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:45:04 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:45:04 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:45:04 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:45:04 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:45:04 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:45:04 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:45:04 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:45:04 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:45:05 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:45:06 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:45:06 INFO  - HHH000230: Schema export complete
+2019-01-22 09:53:40 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:53:40 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:53:40 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:53:40 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:53:40 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:53:40 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:53:40 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:53:40 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:53:40 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:53:40 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:53:41 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:53:41 INFO  - HHH000230: Schema export complete
+2019-01-22 09:54:52 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:54:52 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:54:52 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:54:52 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:54:52 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:54:52 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:54:52 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:54:52 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:54:52 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:54:53 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:54:54 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:54:54 INFO  - HHH000230: Schema export complete
+2019-01-22 09:56:47 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:56:47 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:56:47 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:56:47 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:56:48 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:56:48 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:56:48 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:56:48 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:56:48 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:56:48 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:56:49 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:56:49 INFO  - HHH000230: Schema export complete
+2019-01-22 09:57:28 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:57:28 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:57:28 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:57:28 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:57:29 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:57:29 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:57:29 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:57:29 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:57:29 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:57:29 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:57:30 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:57:30 INFO  - HHH000230: Schema export complete
+2019-01-22 09:58:14 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:58:14 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:58:14 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:58:14 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:58:15 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:58:15 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:58:15 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:58:15 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:58:15 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:58:15 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:58:16 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:58:16 INFO  - HHH000230: Schema export complete
+2019-01-22 09:59:11 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-22 09:59:11 INFO  - HHH000206: hibernate.properties not found
+2019-01-22 09:59:11 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-22 09:59:11 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-22 09:59:11 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-22 09:59:11 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-22 09:59:11 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-22 09:59:11 INFO  - HHH10001003: Autocommit mode: false
+2019-01-22 09:59:11 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-22 09:59:11 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-22 09:59:13 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-22 09:59:13 INFO  - HHH000230: Schema export complete
+2019-01-26 19:57:24 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 19:57:24 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 19:57:24 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 19:57:25 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 19:57:25 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 19:57:26 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 19:57:26 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 19:57:26 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 19:57:26 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 19:57:26 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 19:57:27 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 19:57:27 INFO  - HHH000230: Schema export complete
+2019-01-26 19:57:27 ERROR - Persist failed for User(userId=0, userName=Esteban, emailAddress=esteban.santamarina)
+org.hibernate.HibernateException: persist is not valid without active transaction
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:352)
+	at com.sun.proxy.$Proxy28.persist(Unknown Source)
+	at com.revolut.dao.AbstractHibernateDao.save(AbstractHibernateDao.java:56)
+	at com.revolut.dao.TestUserDao.testCreateUser(TestUserDao.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-01-26 19:59:57 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 19:59:57 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 19:59:57 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 19:59:57 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 19:59:57 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 19:59:57 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 19:59:57 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 19:59:57 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 19:59:57 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 19:59:57 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 19:59:59 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 19:59:59 INFO  - HHH000230: Schema export complete
+2019-01-26 20:09:10 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 20:09:10 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 20:09:10 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 20:09:11 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 20:09:11 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 20:09:11 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 20:09:11 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 20:09:11 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 20:09:11 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 20:09:11 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 20:09:13 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 20:09:13 INFO  - HHH000230: Schema export complete
+2019-01-26 20:10:20 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 20:10:20 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 20:10:20 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 20:10:20 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 20:10:20 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 20:10:20 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 20:10:20 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 20:10:20 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 20:10:21 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 20:10:21 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 20:10:23 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 20:10:23 INFO  - HHH000230: Schema export complete
+2019-01-26 20:10:23 ERROR - getAllUsers: Error: org.hibernate.HibernateException: createCriteria is not valid without active transaction
+2019-01-26 20:10:48 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 20:10:48 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 20:10:48 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 20:10:49 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 20:10:49 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 20:10:49 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 20:10:49 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 20:10:49 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 20:10:49 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 20:10:49 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 20:10:51 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 20:10:51 INFO  - HHH000230: Schema export complete
+2019-01-26 20:12:23 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 20:12:23 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 20:12:23 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 20:12:23 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 20:12:23 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 20:12:23 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 20:12:23 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 20:12:23 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 20:12:23 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 20:12:23 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 20:12:25 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 20:12:25 INFO  - HHH000230: Schema export complete
+2019-01-26 20:12:33 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 20:12:33 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 20:12:33 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 20:12:34 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 20:12:34 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 20:12:34 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 20:12:34 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 20:12:34 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 20:12:34 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 20:12:34 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 20:12:36 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 20:12:36 INFO  - HHH000230: Schema export complete
+2019-01-26 20:13:07 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 20:13:07 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 20:13:07 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 20:13:07 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 20:13:07 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 20:13:07 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 20:13:07 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 20:13:07 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 20:13:07 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 20:13:07 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 20:13:09 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 20:13:09 INFO  - HHH000230: Schema export complete
+2019-01-26 20:23:37 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 20:23:37 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 20:23:37 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 20:23:37 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 20:23:37 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 20:23:37 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 20:23:37 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 20:23:37 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 20:23:37 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 20:23:38 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 20:23:40 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 20:23:40 INFO  - HHH000230: Schema export complete
+2019-01-26 20:23:40 INFO  - Populating Test User Table and data ..... 
+2019-01-26 20:23:40 ERROR - populateTestData(): Error populating user data: 
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+--This script is used for unit test cases, DO NOT CHANGE!
+
+--DROP TABLE IF EXISTS User;
+
+--CREATE TABLE User (UserId LONG PRIMARY KEY AUTO_INCREMENT NOT NULL,
+-- UserName VARCHAR(30) NOT NULL,
+-- EmailAddress VARCHAR(30) NOT NULL);
+
+--CREATE UNIQUE INDEX idx_ue on User(UserName,EmailAddress);
+
+INSERT INTO User (UserName, EmailAddress) VALUES ('yangluo','yangluo@gmail.com') [42102-196]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.command.Parser.readTableOrView(Parser.java:5552)
+	at org.h2.command.Parser.readTableOrView(Parser.java:5529)
+	at org.h2.command.Parser.parseInsert(Parser.java:1062)
+	at org.h2.command.Parser.parsePrepared(Parser.java:417)
+	at org.h2.command.Parser.parse(Parser.java:321)
+	at org.h2.command.Parser.parse(Parser.java:293)
+	at org.h2.command.Parser.prepareCommand(Parser.java:258)
+	at org.h2.engine.Session.prepareLocal(Session.java:578)
+	at org.h2.engine.Session.prepareCommand(Session.java:519)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1204)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:176)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:164)
+	at org.h2.tools.RunScript.execute(RunScript.java:171)
+	at com.revolut.dao.AbstractHibernateDao.populateTestData(AbstractHibernateDao.java:121)
+	at com.revolut.dao.TestUserDao.setup(TestUserDao.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-01-26 20:24:22 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-26 20:24:22 INFO  - HHH000206: hibernate.properties not found
+2019-01-26 20:24:22 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-26 20:24:23 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-26 20:24:23 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-26 20:24:23 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-26 20:24:23 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-26 20:24:23 INFO  - HHH10001003: Autocommit mode: false
+2019-01-26 20:24:23 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-26 20:24:23 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-26 20:24:25 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-26 20:24:25 INFO  - HHH000230: Schema export complete
+2019-01-26 20:24:25 INFO  - Populating Test User Table and data ..... 
+2019-01-29 19:42:54 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-29 19:42:54 INFO  - HHH000206: hibernate.properties not found
+2019-01-29 19:42:54 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-29 19:42:55 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-29 19:42:55 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-29 19:42:55 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-29 19:42:55 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-29 19:42:55 INFO  - HHH10001003: Autocommit mode: false
+2019-01-29 19:42:55 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-29 19:42:56 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-29 19:42:58 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-29 19:42:59 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-29 19:42:59 INFO  - HHH000230: Schema export complete
+2019-01-29 19:42:59 INFO  - Populating Test User Table and data
+2019-01-29 19:43:34 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-29 19:43:34 INFO  - HHH000206: hibernate.properties not found
+2019-01-29 19:43:34 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-29 19:43:35 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-29 19:43:35 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-29 19:43:35 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-29 19:43:35 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-29 19:43:35 INFO  - HHH10001003: Autocommit mode: false
+2019-01-29 19:43:35 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-29 19:43:36 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-29 19:43:37 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-29 19:43:37 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-29 19:43:37 INFO  - HHH000230: Schema export complete
+2019-01-29 19:43:37 INFO  - Populating Test User Table and data
+2019-01-29 19:44:03 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-29 19:44:03 INFO  - HHH000206: hibernate.properties not found
+2019-01-29 19:44:03 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-29 19:44:04 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-29 19:44:04 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-29 19:44:04 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-29 19:44:04 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-29 19:44:04 INFO  - HHH10001003: Autocommit mode: false
+2019-01-29 19:44:04 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-29 19:44:05 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-29 19:44:07 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-29 19:44:07 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-29 19:44:07 INFO  - HHH000230: Schema export complete
+2019-01-29 19:44:07 INFO  - Populating Test User Table and data
+2019-01-29 19:44:42 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-29 19:44:42 INFO  - HHH000206: hibernate.properties not found
+2019-01-29 19:44:42 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-29 19:44:49 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-29 19:44:52 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-29 19:44:52 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-29 19:44:52 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-29 19:44:52 INFO  - HHH10001003: Autocommit mode: false
+2019-01-29 19:44:52 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-29 19:44:56 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-29 19:45:08 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-29 19:45:17 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-29 19:45:17 INFO  - HHH000206: hibernate.properties not found
+2019-01-29 19:45:17 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-29 19:45:18 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-29 19:45:18 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-29 19:45:18 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-29 19:45:18 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-29 19:45:18 INFO  - HHH10001003: Autocommit mode: false
+2019-01-29 19:45:18 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-29 19:45:19 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-29 19:45:20 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-29 19:45:21 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-29 19:45:21 INFO  - HHH000230: Schema export complete
+2019-01-29 19:45:21 INFO  - Populating Test User Table and data
+2019-01-29 19:45:33 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-29 19:45:33 INFO  - HHH000206: hibernate.properties not found
+2019-01-29 19:45:33 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-29 19:45:34 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-29 19:45:34 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-29 19:45:34 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-29 19:45:34 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-29 19:45:34 INFO  - HHH10001003: Autocommit mode: false
+2019-01-29 19:45:34 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-29 19:45:35 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-29 19:45:36 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-29 19:45:37 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-29 19:45:37 INFO  - HHH000230: Schema export complete
+2019-01-29 19:45:37 INFO  - Populating Test User Table and data
+2019-01-29 19:46:30 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-29 19:46:30 INFO  - HHH000206: hibernate.properties not found
+2019-01-29 19:46:30 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-29 19:46:31 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-29 19:46:31 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-29 19:46:31 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-29 19:46:31 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-29 19:46:31 INFO  - HHH10001003: Autocommit mode: false
+2019-01-29 19:46:31 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-29 19:46:31 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-29 19:46:33 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-29 19:46:34 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-29 19:46:34 INFO  - HHH000230: Schema export complete
+2019-01-29 19:46:34 INFO  - Populating Test User Table and data
+2019-01-29 19:47:33 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-29 19:47:33 INFO  - HHH000206: hibernate.properties not found
+2019-01-29 19:47:33 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-29 19:47:34 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-29 19:47:34 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-29 19:47:34 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-29 19:47:34 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-29 19:47:34 INFO  - HHH10001003: Autocommit mode: false
+2019-01-29 19:47:34 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-29 19:47:34 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-29 19:47:36 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-29 19:47:36 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-29 19:47:36 INFO  - HHH000230: Schema export complete
+2019-01-29 19:47:36 INFO  - Populating Test User Table and data
+2019-01-30 18:35:09 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:35:09 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:35:09 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:35:10 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:35:10 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:35:10 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:35:10 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:35:10 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:35:10 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:35:11 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:35:12 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:35:13 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:35:13 INFO  - HHH000230: Schema export complete
+2019-01-30 18:35:14 INFO  - Populating Test User Table and data
+2019-01-30 18:35:21 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:35:21 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:35:21 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:35:22 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:35:22 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:35:22 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:35:22 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:35:22 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:35:22 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:35:23 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:35:24 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:35:25 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:35:25 INFO  - HHH000230: Schema export complete
+2019-01-30 18:35:25 INFO  - Populating Test User Table and data
+2019-01-30 18:40:13 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:40:13 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:40:13 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:40:14 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:40:14 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:40:14 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:40:14 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:40:14 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:40:14 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:40:14 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:40:15 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:40:16 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:40:16 INFO  - HHH000230: Schema export complete
+2019-01-30 18:40:41 INFO  - Populating Test User Table and data
+2019-01-30 18:41:34 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:41:34 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:41:34 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:41:35 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:41:35 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:41:35 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:41:35 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:41:35 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:41:35 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:41:36 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:41:38 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:41:39 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:41:39 INFO  - HHH000230: Schema export complete
+2019-01-30 18:41:39 INFO  - Populating Test User Table and data
+2019-01-30 18:41:59 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:41:59 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:41:59 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:42:00 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:42:00 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:42:00 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:42:00 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:42:00 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:42:00 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:42:01 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:42:03 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:42:04 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:42:04 INFO  - HHH000230: Schema export complete
+2019-01-30 18:42:04 INFO  - Populating Test User Table and data
+2019-01-30 18:43:43 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:43:43 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:43:43 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:43:44 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:43:44 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:43:44 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:43:44 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:43:44 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:43:44 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:43:45 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:43:46 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:43:46 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:43:46 INFO  - HHH000230: Schema export complete
+2019-01-30 18:43:46 INFO  - Populating Test User Table and data
+2019-01-30 18:48:46 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:48:46 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:48:46 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:48:47 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:48:47 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:48:47 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:48:47 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:48:47 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:48:47 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:48:48 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:48:50 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:48:50 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:48:50 INFO  - HHH000230: Schema export complete
+2019-01-30 18:50:03 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:50:03 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:50:03 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:50:04 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:50:04 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:50:04 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:50:04 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:50:04 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:50:04 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:50:04 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:50:06 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:50:06 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:50:07 INFO  - HHH000230: Schema export complete
+2019-01-30 18:50:20 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:50:20 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:50:20 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:50:21 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:50:21 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:50:21 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:50:21 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:50:21 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:50:21 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:50:22 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:50:23 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:50:24 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:50:24 INFO  - HHH000230: Schema export complete
+2019-01-30 18:51:35 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:51:35 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:51:35 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:51:36 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:51:36 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:51:36 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:51:36 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:51:36 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:51:36 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:51:36 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:51:38 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:51:39 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:51:39 INFO  - HHH000230: Schema export complete
+2019-01-30 18:51:49 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:51:49 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:51:49 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:51:50 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:51:50 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:51:50 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:51:50 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:51:50 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:51:50 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:51:50 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:51:52 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:51:53 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:51:53 INFO  - HHH000230: Schema export complete
+2019-01-30 18:54:07 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:54:07 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:54:07 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:54:08 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:54:08 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:54:08 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:54:08 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:54:08 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:54:08 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:54:09 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:54:10 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:54:10 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:54:10 INFO  - HHH000230: Schema export complete
+2019-01-30 18:54:18 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:54:18 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:54:18 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:54:18 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:54:18 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:54:18 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:54:18 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:54:18 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:54:18 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:54:19 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:54:20 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:54:21 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:54:21 INFO  - HHH000230: Schema export complete
+2019-01-30 18:54:45 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:54:45 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:54:45 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:54:46 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:54:46 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:54:46 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:54:46 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:54:46 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:54:46 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:54:46 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:54:48 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:54:48 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:54:48 INFO  - HHH000230: Schema export complete
+2019-01-30 18:56:57 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:56:57 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:56:57 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:56:57 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:56:57 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:56:57 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:56:57 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:56:57 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:56:57 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:56:58 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:57:01 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:57:01 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:57:01 INFO  - HHH000230: Schema export complete
+2019-01-30 18:58:04 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:58:04 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:58:04 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:58:04 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:58:05 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:58:05 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:58:05 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:58:05 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:58:05 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:58:05 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:58:07 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:58:08 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:58:08 INFO  - HHH000230: Schema export complete
+2019-01-30 18:58:17 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 18:58:17 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 18:58:17 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 18:58:18 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 18:58:18 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 18:58:18 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 18:58:18 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 18:58:18 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 18:58:18 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 18:58:18 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 18:58:20 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 18:58:20 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 18:58:20 INFO  - HHH000230: Schema export complete
+2019-01-30 19:00:38 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:00:38 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:00:38 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:00:38 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:00:39 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:00:39 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:00:39 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:00:39 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:00:39 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:00:39 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:00:41 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:00:41 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:00:41 INFO  - HHH000230: Schema export complete
+2019-01-30 19:02:30 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:02:30 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:02:30 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:02:31 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:02:31 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:02:31 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:02:31 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:02:31 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:02:31 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:02:31 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:02:33 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:02:34 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:02:34 INFO  - HHH000230: Schema export complete
+2019-01-30 19:04:17 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:04:17 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:04:17 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:04:18 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:04:18 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:04:18 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:04:18 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:04:18 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:04:18 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:04:19 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:04:20 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:04:21 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:04:21 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: CREATE TABLE User (userId LONG PRIMARY KEY AUTO_INCREMENT NOT NULL,
+2019-01-30 19:04:21 ERROR - Syntax error in SQL statement "CREATE TABLE USER (USERID LONG PRIMARY KEY AUTO_INCREMENT NOT NULL, [*]"; expected "identifier"; SQL statement:
+CREATE TABLE User (userId LONG PRIMARY KEY AUTO_INCREMENT NOT NULL, [42001-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: userName VARCHAR(30) NOT NULL,
+2019-01-30 19:04:21 ERROR - Syntax error in SQL statement "USERNAME[*] VARCHAR(30) NOT NULL, "; expected "UPDATE, USE, {"; SQL statement:
+userName VARCHAR(30) NOT NULL, [42001-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: emailAddress VARCHAR(30) NOT NULL)
+2019-01-30 19:04:21 ERROR - Syntax error in SQL statement "EMAILADDRESS[*] VARCHAR(30) NOT NULL) "; expected "EXPLAIN, EXECUTE, {"; SQL statement:
+emailAddress VARCHAR(30) NOT NULL) [42001-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO User (userName, emailAddress) VALUES ('yangluo','yangluo@gmail.com')
+2019-01-30 19:04:21 ERROR - Table "USER" not found; SQL statement:
+INSERT INTO User (userName, emailAddress) VALUES ('yangluo','yangluo@gmail.com') [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO User (userName, emailAddress) VALUES ('qinfran','qinfran@gmail.com')
+2019-01-30 19:04:21 ERROR - Table "USER" not found; SQL statement:
+INSERT INTO User (userName, emailAddress) VALUES ('qinfran','qinfran@gmail.com') [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO User (userName, emailAddress) VALUES ('liusisi','liusisi@gmail.com')
+2019-01-30 19:04:21 ERROR - Table "USER" not found; SQL statement:
+INSERT INTO User (userName, emailAddress) VALUES ('liusisi','liusisi@gmail.com') [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: CREATE UNIQUE INDEX idx_ue on User(UserName,EmailAddress)
+2019-01-30 19:04:21 ERROR - Table "USER" not found; SQL statement:
+CREATE UNIQUE INDEX idx_ue on User(UserName,EmailAddress) [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: CREATE TABLE Account (AccountId LONG PRIMARY KEY AUTO_INCREMENT NOT NULL,
+2019-01-30 19:04:21 ERROR - Syntax error in SQL statement "CREATE TABLE ACCOUNT (ACCOUNTID LONG PRIMARY KEY AUTO_INCREMENT NOT NULL, [*]"; expected "identifier"; SQL statement:
+CREATE TABLE Account (AccountId LONG PRIMARY KEY AUTO_INCREMENT NOT NULL, [42001-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: UserName VARCHAR(30),
+2019-01-30 19:04:21 ERROR - Syntax error in SQL statement "USERNAME[*] VARCHAR(30), "; expected "UPDATE, USE, {"; SQL statement:
+UserName VARCHAR(30), [42001-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: Balance DECIMAL(19,4),
+2019-01-30 19:04:21 ERROR - Syntax error in SQL statement "BALANCE[*] DECIMAL(19,4), "; expected "BACKUP, BEGIN, {"; SQL statement:
+Balance DECIMAL(19,4), [42001-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: CurrencyCode VARCHAR(30)
+2019-01-30 19:04:21 ERROR - Syntax error in SQL statement "CURRENCYCODE[*] VARCHAR(30) "; expected "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT, {"; SQL statement:
+CurrencyCode VARCHAR(30) [42001-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: )
+2019-01-30 19:04:21 ERROR - Syntax error in SQL statement ")[*]"; SQL statement:
+) [42000-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: CREATE UNIQUE INDEX idx_acc on Account(UserName,CurrencyCode)
+2019-01-30 19:04:21 ERROR - Table "ACCOUNT" not found; SQL statement:
+CREATE UNIQUE INDEX idx_acc on Account(UserName,CurrencyCode) [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',100.0000,'USD')
+2019-01-30 19:04:21 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',100.0000,'USD') [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',200.0000,'USD')
+2019-01-30 19:04:21 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',200.0000,'USD') [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',500.0000,'EUR')
+2019-01-30 19:04:21 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',500.0000,'EUR') [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',500.0000,'EUR')
+2019-01-30 19:04:21 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',500.0000,'EUR') [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',500.0000,'GBP')
+2019-01-30 19:04:21 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',500.0000,'GBP') [42102-196]
+2019-01-30 19:04:21 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',500.0000,'GBP')
+2019-01-30 19:04:21 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',500.0000,'GBP') [42102-196]
+2019-01-30 19:04:21 INFO  - HHH000230: Schema export complete
+2019-01-30 19:04:21 WARN  - SQL Error: 42102, SQLState: 42S02
+2019-01-30 19:04:21 ERROR - Table "USER" not found; SQL statement:
+select this_.userId as userId1_0_0_, this_.emailAddress as emailAdd2_0_0_, this_.userName as userName3_0_0_ from User this_ [42102-196]
+2019-01-30 19:04:21 ERROR - getAllUsers: Error: org.hibernate.exception.SQLGrammarException: could not prepare statement
+2019-01-30 19:05:16 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:05:16 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:05:16 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:05:16 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:05:16 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:05:16 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:05:16 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:05:16 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:05:16 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:05:17 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:05:19 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:05:19 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:05:19 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: CREATE TABLE Account (AccountId LONG PRIMARY KEY AUTO_INCREMENT NOT NULL,
+2019-01-30 19:05:19 ERROR - Syntax error in SQL statement "CREATE TABLE ACCOUNT (ACCOUNTID LONG PRIMARY KEY AUTO_INCREMENT NOT NULL, [*]"; expected "identifier"; SQL statement:
+CREATE TABLE Account (AccountId LONG PRIMARY KEY AUTO_INCREMENT NOT NULL, [42001-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: UserName VARCHAR(30),
+2019-01-30 19:05:19 ERROR - Syntax error in SQL statement "USERNAME[*] VARCHAR(30), "; expected "UPDATE, USE, {"; SQL statement:
+UserName VARCHAR(30), [42001-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: Balance DECIMAL(19,4),
+2019-01-30 19:05:19 ERROR - Syntax error in SQL statement "BALANCE[*] DECIMAL(19,4), "; expected "BACKUP, BEGIN, {"; SQL statement:
+Balance DECIMAL(19,4), [42001-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: CurrencyCode VARCHAR(30)
+2019-01-30 19:05:19 ERROR - Syntax error in SQL statement "CURRENCYCODE[*] VARCHAR(30) "; expected "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT, {"; SQL statement:
+CurrencyCode VARCHAR(30) [42001-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: )
+2019-01-30 19:05:19 ERROR - Syntax error in SQL statement ")[*]"; SQL statement:
+) [42000-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: CREATE UNIQUE INDEX idx_acc on Account(UserName,CurrencyCode)
+2019-01-30 19:05:19 ERROR - Table "ACCOUNT" not found; SQL statement:
+CREATE UNIQUE INDEX idx_acc on Account(UserName,CurrencyCode) [42102-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',100.0000,'USD')
+2019-01-30 19:05:19 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',100.0000,'USD') [42102-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',200.0000,'USD')
+2019-01-30 19:05:19 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',200.0000,'USD') [42102-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',500.0000,'EUR')
+2019-01-30 19:05:19 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',500.0000,'EUR') [42102-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',500.0000,'EUR')
+2019-01-30 19:05:19 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',500.0000,'EUR') [42102-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',500.0000,'GBP')
+2019-01-30 19:05:19 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('yangluo',500.0000,'GBP') [42102-196]
+2019-01-30 19:05:19 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',500.0000,'GBP')
+2019-01-30 19:05:19 ERROR - Table "ACCOUNT" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('qinfran',500.0000,'GBP') [42102-196]
+2019-01-30 19:05:19 INFO  - HHH000230: Schema export complete
+2019-01-30 19:06:22 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:06:22 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:06:22 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:06:23 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:06:24 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:06:24 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:06:24 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:06:24 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:06:24 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:06:24 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:06:25 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:06:26 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:06:26 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:06:26 INFO  - HHH000230: Schema export complete
+2019-01-30 19:07:54 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:07:54 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:07:54 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:07:55 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:07:55 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:07:55 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:07:55 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:07:55 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:07:55 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:07:56 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:07:57 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:07:58 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:07:58 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:07:58 INFO  - HHH000230: Schema export complete
+2019-01-30 19:08:23 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:08:23 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:08:23 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:08:24 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:08:24 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:08:24 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:08:24 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:08:24 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:08:24 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:08:25 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:08:26 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:08:27 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:08:27 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:08:27 INFO  - HHH000230: Schema export complete
+2019-01-30 19:10:00 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:10:00 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:10:00 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:10:01 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:10:01 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:10:01 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:10:01 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:10:01 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:10:01 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:10:02 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:10:03 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:10:04 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:10:04 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:10:04 INFO  - HHH000230: Schema export complete
+2019-01-30 19:10:21 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:10:21 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:10:21 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:10:22 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:10:22 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:10:22 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:10:22 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:10:22 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:10:22 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:10:23 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:10:24 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:10:25 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:10:25 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:10:25 INFO  - HHH000230: Schema export complete
+2019-01-30 19:11:25 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:11:25 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:11:25 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:11:26 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:11:26 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:11:26 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:11:26 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:11:26 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:11:26 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:11:26 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:11:28 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:11:29 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:11:29 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:11:29 INFO  - HHH000230: Schema export complete
+2019-01-30 19:11:36 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:11:36 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:11:36 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:11:37 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:11:37 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:11:37 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:11:37 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:11:37 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:11:37 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:11:38 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:11:39 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:11:40 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:11:40 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:11:40 INFO  - HHH000230: Schema export complete
+2019-01-30 19:15:28 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:15:28 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:15:28 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:15:28 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:15:29 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:15:29 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:15:29 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:15:29 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:15:29 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:15:29 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:15:31 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:15:31 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:15:31 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:15:31 INFO  - HHH000230: Schema export complete
+2019-01-30 19:15:31 ERROR - Update: failed for User(userId=1, userName=esantamarina, emailAddress=emailUpdated@gmail.com)
+org.hibernate.HibernateException: merge is not valid without active transaction
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:352)
+	at com.sun.proxy.$Proxy28.merge(Unknown Source)
+	at com.revolut.dao.AbstractHibernateDao.update(AbstractHibernateDao.java:75)
+	at com.revolut.dao.TestUserDao.testUpdateUser(TestUserDao.java:87)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-01-30 19:15:58 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:15:58 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:15:58 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:15:58 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:15:59 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:15:59 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:15:59 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:15:59 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:15:59 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:15:59 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:16:01 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:16:01 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:16:01 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:16:01 INFO  - HHH000230: Schema export complete
+2019-01-30 19:19:42 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:19:42 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:19:42 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:19:43 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:19:43 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:19:43 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:19:43 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:19:43 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:19:43 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:19:43 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:19:45 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:19:45 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:19:45 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:19:46 INFO  - HHH000230: Schema export complete
+2019-01-30 19:20:08 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:20:08 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:20:08 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:20:09 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:20:09 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:20:09 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:20:09 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:20:09 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:20:09 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:20:10 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:20:12 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:20:12 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:20:12 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:20:12 INFO  - HHH000230: Schema export complete
+2019-01-30 19:29:01 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:29:01 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:29:01 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:29:02 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:29:02 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:29:02 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:29:02 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:29:02 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:29:02 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:29:03 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:29:04 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:29:05 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:29:05 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:29:05 INFO  - HHH000230: Schema export complete
+2019-01-30 19:30:42 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:30:42 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:30:42 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:30:43 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:30:43 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:30:43 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:30:43 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:30:43 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:30:43 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:30:43 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:30:45 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:30:45 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:30:45 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:30:45 INFO  - HHH000230: Schema export complete
+2019-01-30 19:31:02 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:31:02 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:31:02 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:31:02 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:31:02 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:31:02 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:31:02 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:31:02 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:31:02 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:31:03 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:31:04 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:31:05 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:31:05 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:31:05 INFO  - HHH000230: Schema export complete
+2019-01-30 19:31:54 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:31:54 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:31:54 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:31:55 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:31:55 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:31:55 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:31:55 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:31:55 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:31:55 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:31:56 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:31:57 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:31:58 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:31:58 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:31:58 INFO  - HHH000230: Schema export complete
+2019-01-30 19:32:25 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:32:25 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:32:25 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:32:26 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:32:26 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:32:26 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:32:26 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:32:26 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:32:26 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:32:27 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:32:29 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:32:29 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:32:29 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:32:29 INFO  - HHH000230: Schema export complete
+2019-01-30 19:34:58 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:34:58 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:34:58 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:34:59 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:34:59 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:34:59 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:34:59 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:34:59 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:34:59 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:34:59 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:35:01 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:35:01 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:35:01 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:35:02 INFO  - HHH000230: Schema export complete
+2019-01-30 19:35:08 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:35:08 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:35:08 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:35:09 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:35:09 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:35:09 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:35:09 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:35:09 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:35:09 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:35:09 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:35:11 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:35:12 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:35:12 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:35:12 INFO  - HHH000230: Schema export complete
+2019-01-30 19:36:51 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:36:51 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:36:51 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:36:52 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:36:52 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:36:52 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:36:52 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:36:52 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:36:52 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:36:52 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:36:54 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:36:54 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:36:54 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:36:54 INFO  - HHH000230: Schema export complete
+2019-01-30 19:37:14 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:37:14 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:37:14 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:37:14 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:37:15 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:37:15 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:37:15 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:37:15 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:37:15 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:37:15 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:37:17 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:37:18 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:37:18 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:37:18 INFO  - HHH000230: Schema export complete
+2019-01-30 19:37:46 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:37:46 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:37:46 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:37:47 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:37:47 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:37:47 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:37:47 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:37:47 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:37:47 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:37:47 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:37:49 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:37:50 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:37:50 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:37:50 INFO  - HHH000230: Schema export complete
+2019-01-30 19:38:04 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:38:04 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:38:04 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:38:04 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:38:05 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:38:05 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:38:05 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:38:05 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:38:05 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:38:05 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:38:07 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:38:07 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:38:07 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:38:07 INFO  - HHH000230: Schema export complete
+2019-01-30 19:38:15 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:38:15 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:38:15 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:38:17 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:38:17 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:38:17 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:38:17 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:38:17 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:38:17 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:38:17 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:38:19 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:38:19 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:38:19 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:38:19 INFO  - HHH000230: Schema export complete
+2019-01-30 19:38:41 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:38:41 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:38:41 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:38:42 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:38:43 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:38:43 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:38:43 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:38:43 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:38:43 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:38:43 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:38:44 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:38:45 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:38:45 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:38:45 INFO  - HHH000230: Schema export complete
+2019-01-30 19:39:15 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:39:15 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:39:15 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:39:15 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:39:16 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:39:16 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:39:16 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:39:16 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:39:16 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:39:16 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:39:18 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:39:18 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:39:18 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:39:18 INFO  - HHH000230: Schema export complete
+2019-01-30 19:39:47 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:39:47 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:39:47 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:39:48 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:39:48 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:39:48 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:39:48 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:39:48 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:39:48 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:39:49 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:39:51 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:39:51 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:39:51 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:39:51 INFO  - HHH000230: Schema export complete
+2019-01-30 19:40:19 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:40:19 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:40:19 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:40:20 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:40:20 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:40:20 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:40:20 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:40:20 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:40:20 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:40:21 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:40:23 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:40:23 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:40:23 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:40:23 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('esantamarina',"100",'USD')
+2019-01-30 19:40:23 ERROR - Column "100" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('esantamarina',"100",'USD') [42122-196]
+2019-01-30 19:40:23 ERROR - HHH000388: Unsuccessful: INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('revolutUser',"200",'USD')
+2019-01-30 19:40:23 ERROR - Column "200" not found; SQL statement:
+INSERT INTO Account (UserName,Balance,CurrencyCode) VALUES ('revolutUser',"200",'USD') [42122-196]
+2019-01-30 19:40:23 INFO  - HHH000230: Schema export complete
+2019-01-30 19:40:36 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:40:36 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:40:36 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:40:37 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:40:37 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:40:37 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:40:37 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:40:37 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:40:37 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:40:38 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:40:39 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:40:40 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:40:40 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:40:40 INFO  - HHH000230: Schema export complete
+2019-01-30 19:41:20 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:41:20 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:41:20 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:41:20 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:41:20 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:41:20 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:41:20 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:41:20 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:41:20 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:41:21 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:41:23 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:41:24 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:41:24 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:41:24 INFO  - HHH000230: Schema export complete
+2019-01-30 19:43:48 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:43:48 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:43:48 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:43:48 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:43:48 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:43:48 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:43:48 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:43:48 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:43:48 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:43:49 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:43:51 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:43:51 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:43:51 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:43:51 INFO  - HHH000230: Schema export complete
+2019-01-30 19:44:07 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:44:07 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:44:07 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:44:07 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:44:08 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:44:08 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:44:08 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:44:08 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:44:08 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:44:08 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:44:10 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:44:10 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:44:10 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:44:10 INFO  - HHH000230: Schema export complete
+2019-01-30 19:44:45 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:44:45 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:44:45 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:44:46 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:44:46 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:44:46 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:44:46 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:44:46 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:44:46 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:44:46 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:44:48 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:44:48 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:44:48 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:44:48 INFO  - HHH000230: Schema export complete
+2019-01-30 19:48:21 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:48:21 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:48:21 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:48:21 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:48:22 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:48:22 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:48:22 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:48:22 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:48:22 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:48:22 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:48:24 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:48:24 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:48:25 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:48:25 INFO  - HHH000230: Schema export complete
+2019-01-30 19:49:26 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:49:26 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:49:26 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:49:27 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:49:27 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:49:27 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:49:27 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:49:27 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:49:28 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:49:28 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:49:31 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:49:31 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:49:31 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:49:31 INFO  - HHH000230: Schema export complete
+2019-01-30 19:50:29 INFO  - HHH000412: Hibernate Core {5.0.12.Final}
+2019-01-30 19:50:29 INFO  - HHH000206: hibernate.properties not found
+2019-01-30 19:50:29 INFO  - HHH000021: Bytecode provider name : javassist
+2019-01-30 19:50:30 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-01-30 19:50:30 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-01-30 19:50:30 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:test]
+2019-01-30 19:50:30 INFO  - HHH10001001: Connection properties: {user=sa, password=****}
+2019-01-30 19:50:30 INFO  - HHH10001003: Autocommit mode: false
+2019-01-30 19:50:30 INFO  - HHH000115: Hibernate connection pool size: 5 (min=1)
+2019-01-30 19:50:31 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-01-30 19:50:33 INFO  - HV000001: Hibernate Validator 17.6.0-springboot-SNAPSHOT
+2019-01-30 19:50:33 INFO  - HHH000227: Running hbm2ddl schema export
+2019-01-30 19:50:33 INFO  - HHH000476: Executing import script 'demo.sql'
+2019-01-30 19:50:33 INFO  - HHH000230: Schema export complete
