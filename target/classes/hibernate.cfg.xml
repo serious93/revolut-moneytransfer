@@ -17,5 +17,7 @@
         <property name="hibernate.current_session_context_class">org.hibernate.context.internal.ThreadLocalSessionContext</property>
         <property name="hibernate.hbm2ddl.auto">create</property>
         <property name="hibernate.hbm2ddl.import_files">demo.sql</property>
+        <mapping class="com.revolut.model.User"/>
+        <mapping class="com.revolut.model.Account"/>
     </session-factory>
 </hibernate-configuration>

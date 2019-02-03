@@ -46,8 +46,7 @@ public abstract class TestService {
     }
 
     @AfterClass
-    public static void closeClient() throws Exception {
-        //server.stop();
+    public static void closeClient() {
         HttpClientUtils.closeQuietly(client);
     }
 
@@ -62,7 +61,6 @@ public abstract class TestService {
             servletHolder.setInitParameter("jersey.config.server.provider.classnames",
                       UserService.class.getCanonicalName() + "," +
                             AccountService.class.getCanonicalName() + "," +
-                         //   ServiceExceptionMapper.class.getCanonicalName() + "," +
                             TransactionService.class.getCanonicalName());
             server.start();
         }
