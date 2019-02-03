@@ -11,10 +11,17 @@ A Java RESTful API for money transfers between users accounts
 - Apache HTTP Client
 
 
-### How to run
-```sh
+How to start
+Once the application is fetched from git it can be built with maven
+
 mvn clean install
-```
+This will fetch dependencies and run all tests
+
+To run the app execute:
+
+mvn exec:java
+
+The application will start on the localhost and will be listening to the port 8080
 
 Application starts a jetty server on localhost port 8084 An H2 in memory database initialized with some sample user and account data To view
 
@@ -74,3 +81,8 @@ Application starts a jetty server on localhost port 8084 An H2 in memory databas
    "toAccountId":2
 }
 ```
+Future possible improvements
+- Save each transaction
+- Add more business rule conditions
+- Support for different currencies
+- Transactions should have a timestamp
