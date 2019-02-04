@@ -15,20 +15,28 @@ How to start
 Once the application is fetched from git it can be built with maven
 
 mvn clean install
+
 This will fetch dependencies and run all tests
 
 To run the app execute:
 
 mvn exec:java
 
-The application will start on the localhost and will be listening to the port 8080
+The application will start on the localhost and will be listening to the port 8084
 
-Application starts a jetty server on localhost port 8084 An H2 in memory database initialized with some sample user and account data To view
+Application starts a jetty server on localhost port 8084 An H2 in memory database
 
-- http://localhost:8080/user/esantamarina
-- http://localhost:8080/user/revolutUser
-- http://localhost:8080/account/1
-- http://localhost:8080/account/2
+First of all is necessary add some test data into the database using:
+
+- http://localhost:8084/user/create
+- http://localhost:8084/account/create
+
+Examples to get saved data:
+
+- http://localhost:8084/user/esantamarina
+- http://localhost:8084/user/revolutUser
+- http://localhost:8084/account/1
+- http://localhost:8084/account/2
 
 ### Available Endpoints
 
